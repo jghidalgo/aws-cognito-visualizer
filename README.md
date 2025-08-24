@@ -4,19 +4,19 @@ An interactive web application that demonstrates how AWS Cognito works, includin
 
 ## Features
 
-### 🔐 Authentication Flows
+### Authentication Flows
 - **User Registration**: Complete sign-up process with User Pool
 - **User Sign-In**: Standard authentication with credentials
 - **Federated Sign-In**: OAuth integration with social providers
 - **Token Refresh**: Automatic token renewal process
 
-### 🏗️ Architecture Components
+### Architecture Components
 - **User Pool**: User directory and authentication service
 - **Identity Pool**: AWS credentials exchange service
 - **JWT Tokens**: ID, Access, and Refresh token management
 - **AWS Services**: Integrated service access control
 
-### 📊 Real-time Visualization
+### Real-time Visualization
 - Step-by-step authentication flow
 - Live token generation and display
 - User management and session tracking
